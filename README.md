@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Autotask_wordmark.png" alt="Autotask Logo" style="height: 250px; border-radius: 20px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);">
+  <img src="/Autotask_wordmark.jpg" alt="Autotask Logo" style="height: 50px; border-radius: 20px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);">
 </div>
 
 # Autotask: Dump plaintext tasks into Linear
