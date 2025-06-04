@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="@Autotask.png" alt="Autotask Logo" style="max-height: 300px;">
+  <img src="/Autotask.png" alt="Autotask Logo" style="height: 250px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);">
 </div>
-
 
 # Autotask: Dump plaintext tasks into Linear
 An AI Linear Bot for Discord
