@@ -1,4 +1,10 @@
-# Discord Gemini Linear Bot
+<div align="center">
+  <img src="@Autotask.png" alt="Autotask Logo" style="max-height: 300px;">
+</div>
+
+
+# Autotask: Dump plaintext tasks into Linear
+An AI Linear Bot for Discord
 
 ## Overview
 This bot:
