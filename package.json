@@ -1,0 +1,25 @@
+{
+  "name": "auto-task-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that creates Linear tasks using AI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "linear",
+    "tasks",
+    "ai"
+  ],
+  "author": "",
+  "license": "MIT"
+}
